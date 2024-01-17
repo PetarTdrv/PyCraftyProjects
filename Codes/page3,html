@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="page3.css">
+    <title>PyCraftyProjects</title>
+</head>
+<body>
+    <div>
+    <h1>Advanced Projects</h1>
+    </div>
+<div class="div1">
+<ul>
+    <br><li1><p><b>Chat Application</b></p></li1>
+</ul>
+    <p1>
+        Python has long been a popular choice for building chat applications thanks to its simplicity, readability, and a wide array of libraries and frameworks available. 
+        <br>In this section, we'll discuss the reasons behind 
+        <br>Python's popularity in the chat app development sphere and how it can help you create a seamless chat experience.
+    </div>
+        <br><img src="Images/chat_app.avif">
+    </p1>
+
+<ul>
+    <br><li1><p><b>Stock analysis</b></p></li1>
+</ul>
+    <p2>
+        We've all heard of the stock market, right?
+        <br>Stock is essentially a share in a specific company. The stock market is a risky game. 
+        <br>But with the appropriate strategies and research, an investor can create generational wealth.
+        <br>This project is just a tiny fraction of analyzing stock market data with the help of Python since stock analysis includes both technical and fundamental analysis.
+        <br>Which is a broad area.
+        <br><img src="Images/stock_advanced.webp">
+    </p2>
+<ul>
+    <br><li1><p><b>Automated Email Sender</b></p></li1>
+</ul>
+    <p3>
+        Email is a critical means of communication in today's world, but it can be time-consuming and tedious to send out emails manually. 
+        <br>Fortunately, Python provides a simple and efficient way to automate email sending and receiving tasks.
+        <br>In this article, we will explore how to use Python to automate emails.
+        <br>Starting with the basics and moving on to more advanced techniques.
+        <br><img src="Images/autumated_email_sender.png">
+    </p3>
+<ul>
+    <br><li1><p><b>Password Manager</b></p></li1>
+</ul>
+    <p4>
+        In this article, we'll look at how to build an elementary password manager utilising Python and the Tkinter graphical user interface framework. 
+        <br>We will safely protect and retrieve passwords using the cryptography library. 
+        <br>Users can store and easily retrieve passwords for countless online accounts employing the password manager.
+        <br><img src="Images/password_manager.webp">
+    </p4>
+<ul>
+    <br><li1><p><b>Weather App</b></p></li1>
+</ul>
+    <p5>
+        In this tutorial, you will learn about how to create a GUI Weather App in Python. 
+        <br>It uses Open Weather Map API to fetch the latest weather information of cities and places around the globe. 
+        <br>Also, we will be implementing the weather app with GUI (Graphical User Interface) rather than the traditional boring ways.
+        <br>Which are widely available, showing output in CLI(Command Line Interface).
+        <br><img src="Images/weather_app.jpg">
+    </p5>
+<ul>
+    <br><li1><p><b>URL shortener</b></p></li1>
+    <p6>
+        Want to create a URL Shortener in Python? Look no further.
+        <br>Navigating and sharing long URLs is a pain. 
+        <br>The reason behind so long URLs is the number of trackers in a link, loaded up content (multiple directories) of heavy sites, etc.
+        <br>We all use URL shorteners for that purpose to shorten the long URLs to a few characters, which makes them easier to share and navigate through and also look clean and elegant.
+        <br><img src="Images/url_shortener.webp">
+    </p6>
+    <nav>
+        <ul>
+            <ul><li><a href="home.html" style="color:#fff;">
+                <button style="background-color: #fff;">Home</button>
+                </a></li>
+            <li><a href="page2.html" style="color:#fff;">
+                <button style="background-color: #fff;">Basic Projects</button>
+            </a></li>
+            <li><a href="page3.html" style="color:#fff;">
+                <button style="background-color: #fff;">Advanced Projects</button>
+            </a></li>
+            <li><a href="page4.html" style="color:#fff;">
+              <button style="background-color: #fff;">OOP projects</button>
+            </a></li>
+            <li><a href="for_contact.html" style="color:#fff;">
+              <button style="background-color: #fff;">Contact</button>  
+            </a></li>
+        </ul>
+    </nav>
+</ul>
+</body>
+</html>
