@@ -1,0 +1,23 @@
+div{
+    height: 130px;
+    width: 1350px;
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    color: azure;
+}
+
+button {
+    width: 80px;
+    height: 40px;
+}
+
+.div1{
+    height: 150px;
+    width: 1350px;
+    background-color: burlywood;
+}
