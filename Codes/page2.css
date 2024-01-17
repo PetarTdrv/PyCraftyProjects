@@ -1,14 +1,17 @@
+body{
+    background-image: url(Images/p2_mattrix.jpg);
+}
+
 div{
     height: 130px;
     width: 1350px;
-    background-color: green;
+    background-color: rgba(255, 255, 255, 0.7);
 }
 
 h1{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 80px;
-    color: azure;
 }
 
 button {
@@ -17,7 +20,73 @@ button {
 }
 
 .div1{
-    height: 150px;
+    height: 300px;
     width: 1350px;
-    background-color: burlywood;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.div2{
+        height: 300px;
+        width: 1350px;
+        background-color: rgba(255, 255, 255, 0.7);
+        font-size: 25px;
+        font-family: cursive;
+}
+
+.div3{
+    height: 280px;
+    width: 1350px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.div4{
+    height: 380px;
+    width: 1350px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.div5{
+    height: 420px;
+    width: 1350px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.div6{
+    height: 350px;
+    width: 1350px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.div7{
+    height: 400px;
+    width: 1350px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.div8{
+    height: 250px;
+    width: 1350px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 25px;
+    font-family: cursive;
+}
+
+button {
+    width: 80px;
+    height: 40px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
 }
