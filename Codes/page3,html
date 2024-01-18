@@ -7,10 +7,10 @@
     <title>PyCraftyProjects</title>
 </head>
 <body>
-    <div>
+    <div class="div1">
     <h1>Advanced Projects</h1>
     </div>
-<div class="div1">
+<div class="div2">    
 <ul>
     <br><li1><p><b>Chat Application</b></p></li1>
 </ul>
@@ -21,7 +21,7 @@
     </div>
         <br><img src="Images/chat_app.avif">
     </p1>
-
+<div class="div3">
 <ul>
     <br><li1><p><b>Stock analysis</b></p></li1>
 </ul>
@@ -31,8 +31,10 @@
         <br>But with the appropriate strategies and research, an investor can create generational wealth.
         <br>This project is just a tiny fraction of analyzing stock market data with the help of Python since stock analysis includes both technical and fundamental analysis.
         <br>Which is a broad area.
+    </div>
         <br><img src="Images/stock_advanced.webp">
     </p2>
+<div class="div4">
 <ul>
     <br><li1><p><b>Automated Email Sender</b></p></li1>
 </ul>
@@ -41,8 +43,10 @@
         <br>Fortunately, Python provides a simple and efficient way to automate email sending and receiving tasks.
         <br>In this article, we will explore how to use Python to automate emails.
         <br>Starting with the basics and moving on to more advanced techniques.
+    </div>
         <br><img src="Images/autumated_email_sender.png">
     </p3>
+<div class="div5">
 <ul>
     <br><li1><p><b>Password Manager</b></p></li1>
 </ul>
@@ -50,8 +54,10 @@
         In this article, we'll look at how to build an elementary password manager utilising Python and the Tkinter graphical user interface framework. 
         <br>We will safely protect and retrieve passwords using the cryptography library. 
         <br>Users can store and easily retrieve passwords for countless online accounts employing the password manager.
+    </div>
         <br><img src="Images/password_manager.webp">
     </p4>
+<div class="div6">
 <ul>
     <br><li1><p><b>Weather App</b></p></li1>
 </ul>
@@ -60,8 +66,10 @@
         <br>It uses Open Weather Map API to fetch the latest weather information of cities and places around the globe. 
         <br>Also, we will be implementing the weather app with GUI (Graphical User Interface) rather than the traditional boring ways.
         <br>Which are widely available, showing output in CLI(Command Line Interface).
+    </div>    
         <br><img src="Images/weather_app.jpg">
     </p5>
+<div class="div7">
 <ul>
     <br><li1><p><b>URL shortener</b></p></li1>
     <p6>
@@ -69,6 +77,7 @@
         <br>Navigating and sharing long URLs is a pain. 
         <br>The reason behind so long URLs is the number of trackers in a link, loaded up content (multiple directories) of heavy sites, etc.
         <br>We all use URL shorteners for that purpose to shorten the long URLs to a few characters, which makes them easier to share and navigate through and also look clean and elegant.
+    </div>
         <br><img src="Images/url_shortener.webp">
     </p6>
     <nav>
